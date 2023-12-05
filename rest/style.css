@@ -1373,3 +1373,7 @@ form button{
 .dark .header img{
   background-color: white;
 }
+
+.dark th2 a{
+        color: #1a436f;
+}
