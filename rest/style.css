@@ -33,7 +33,7 @@
   /* Media queries para tornar o design responsivo */
   @media (max-width: 768px) {
       section {
-          flex-direction: column;
+          flex-direction: column; /* Itens dentro da seção se empilham verticalmente, em colunas */
       }
 
       article {
