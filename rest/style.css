@@ -1374,6 +1374,25 @@ form button{
   background-color: white;
 }
 
-a .th2{
-    color: darkblue;
+.a2{
+  font-size: 16px; /* Tamanho da fonte */
+  line-height: 1.5; /* Altura da linha para melhor legibilidade */
+  color: #0600EF; /* Cor do texto */
+  margin-left: 115px;
+  margin-bottom: 15px;
+  max-width: 1090px; /* Define uma largura máxima para o parágrafo */
+}
+
+.dark .a2{
+  color: #00A19C;
+}
+
+.nots{
+  font-size: 20px; /* Tamanho da fonte */
+  line-height: 1.5; /* Altura da linha para melhor legibilidade */
+  color: black; /* Cor do texto */
+  margin-bottom: 20px; 
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
+  text-align: center;
 }
