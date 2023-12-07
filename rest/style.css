@@ -68,15 +68,15 @@ article {
   border-radius: 5px;
   margin-bottom: 20px;
   overflow: hidden;
-  transition: transform 0.3s ease-in-out; /* Adiciona uma transi��o suave */
+  transition: transform 0.3s ease-in-out; /* Adiciona uma transição suave */
   position: relative; /* Adiciona position relative */
-  margin-right: 10px; /* Espa�amento entre os artigos */
+  margin-right: 10px; /* Espaçamento entre os artigos */
   padding: 20px; /* Add padding for better spacing */
   border-radius: 8px; /* Add border radius for rounded corners */
 }
 
 article:last-child {
-  margin-right: 0; /* Remove o espa�amento do �ltimo artigo para evitar excesso de espa�o */
+  margin-right: 0; /* Remove o espaçamento do último artigo para evitar excesso de espaço */
 }
 
 article:hover {
@@ -173,8 +173,8 @@ body.dark table {
   border: 1px solid;
   margin-bottom: 20px;
   transition: transform 0.3s;
-  margin: 0 auto; /* Centraliza o cont�iner na p�gina */
-  text-align: justify; /* Centraliza o texto dentro do cont�iner */
+  margin: 0 auto; /* Centraliza o container na página */
+  text-align: justify; /* Centraliza o texto dentro do container */
 }
 
 body.dark table .index {
@@ -185,8 +185,8 @@ body.dark table .index {
   border: 1px solid;
   margin-bottom: 20px;
   transition: transform 0.3s;
-  margin: 0 auto; /* Centraliza o cont�iner na p�gina */
-  text-align: center; /* Centraliza o texto dentro do cont�iner */
+  margin: 0 auto; /* Centraliza o container na página */
+  text-align: center; /* Centraliza o texto dentro do container */
 }
 
 body.dark th, body.dark td {
@@ -542,8 +542,8 @@ body table {
   border: 1px solid;
   margin-bottom: 20px;
   transition: transform 0.3s;
-  margin: 0 auto; /* Centraliza o cont�iner na p�gina */
-  text-align: justify; /* Centraliza o texto dentro do cont�iner */
+  margin: 0 auto; /* Centraliza o container na página */
+  text-align: justify; /* Centraliza o texto dentro do container */
 }
 
 .pfl {
@@ -571,7 +571,7 @@ table td {
     border-bottom: 1px solid #e0e0e0;
 }
 
-/* Rodap� */
+/* Rodapé */
 footer {
     background-color: #ff3131;
     color: white;
@@ -579,19 +579,19 @@ footer {
     padding: 10px 0;
 }
 
-/* Estilize o carro com uma classe e defina a anima��o */
+/* Estilize o carro com uma classe e defina a animação */
 .car-animation {
     position: absolute;
     bottom: 0;
     left: -100px; /* Comece fora da tela */
     width: 100px; /* Largura do carro */
-    animation: moveCar 4s linear infinite; /* 4 segundos de anima��o, movimento linear, repeti��o infinita */
+    animation: moveCar 4s linear infinite; /* 4 segundos de animação, movimento linear, repetição infinita */
 }
 
-/* Defina a anima��o de movimento do carro */
+/* Defina a animação de movimento do carro */
 @keyframes moveCar {
     0% {
-        left: -100px; /* Comece fora da tela � esquerda */
+        left: -100px; /* Comece fora da tela à esquerda */
     }
     100% {
         left: 100%; /* Mova completamente pela tela para a direita */
@@ -930,29 +930,29 @@ ul{
     line-height: 1.5; /* Altura da linha para melhor legibilidade */
     color: #333; /* Cor do texto */
     margin-bottom: 20px; 
-    margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-    max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
-    padding: 10px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+    margin: 0 auto; /* Centraliza o parágrafo na página */
+    max-width: 1000px; /* Define uma largura máxima para o parágrafo */
+    padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
 }
 
 .container {
-  max-width: 1000px; /* Largura m�xima do cont�iner */
-  margin: 0 auto; /* Centraliza o cont�iner na p�gina */
-  padding: 20px; /* Adiciona algum espa�amento interno para melhor legibilidade */
-  text-align: justify; /* Centraliza o texto dentro do cont�iner */
+  max-width: 1000px; /* Largura máxima do container */
+  margin: 0 auto; /* Centraliza o container na página */
+  padding: 20px; /* Adiciona algum espaçamento interno para melhor legibilidade */
+  text-align: justify; /* Centraliza o texto dentro do container */
 }
 
 .hh{
   font-family: 'Formula', sans-serif;
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1150px; /* Define uma largura m�xima para o par�grafo */
-  padding: 20px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1150px; /* Define uma largura máxima para o parágrafo */
+  padding: 20px; /* Adiciona algum espaçamento interno para melhor legibilidade */
 }
 
 .hh2{
   font-family: 'Formula', sans-serif;
-  margin-left: 93px; /* Adiciona um recuo � esquerda */
+  margin-left: 93px; /* Adiciona um recuo à esquerda */
   margin-bottom: -5px;
 }
 
@@ -971,7 +971,7 @@ ul{
   margin-left: 115px;
   margin-bottom: 15px;
   margin-top: 15px;
-  max-width: 1090px; /* Define uma largura m�xima para o par�grafo */
+  max-width: 1090px; /* Define uma largura máxima para o parágrafo */
 }
 
 .hh5{
@@ -979,9 +979,9 @@ ul{
   font-size: 150%;
   line-height: 1.5; /* Altura da linha para melhor legibilidade */
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
-  padding: 10px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
+  padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
 }
 
 .hh6{
@@ -989,9 +989,9 @@ ul{
   font-size: 130%;
   line-height: 1.5; /* Altura da linha para melhor legibilidade */
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
-  padding: 10px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
+  padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
 }
 
 .hh7{
@@ -999,9 +999,9 @@ ul{
   font-size: 230%;
   line-height: 1.5; /* Altura da linha para melhor legibilidade */
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
-  padding: 10px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
+  padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
 }
 
 .th2{
@@ -1010,7 +1010,7 @@ ul{
   color: #333; /* Cor do texto */
   margin-left: 115px;
   margin-bottom: 15px;
-  max-width: 1090px; /* Define uma largura m�xima para o par�grafo */
+  max-width: 1090px; /* Define uma largura máxima para o parágrafo */
 }
 
 .th3{
@@ -1018,9 +1018,9 @@ ul{
   line-height: 1.5; /* Altura da linha para melhor legibilidade */
   color: black; /* Cor do texto */
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
-  padding: 10px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
+  padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
 }
 
 .th4{
@@ -1028,9 +1028,9 @@ ul{
   line-height: 1.5; /* Altura da linha para melhor legibilidade */
   color: black; /* Cor do texto */
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
-  padding: 10px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
+  padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
   font-family: 'Formula', sans-serif;
 }
 
@@ -1038,8 +1038,8 @@ ul{
   font-size: 16px; /* Tamanho da fonte */
   line-height: 1.5; /* Altura da linha para melhor legibilidade */
   color: #ffffff; /* Cor do texto */
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
   text-align: justify;
 }
 
@@ -1048,8 +1048,8 @@ ul{
   line-height: 1.5; /* Altura da linha para melhor legibilidade */
   color: black; /* Cor do texto */
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
 }
 
 body.dark .th3 a{
@@ -1163,7 +1163,7 @@ fieldset b{
   margin-left: 20px;
 }
 
-/* Adicione o seguinte c�digo CSS ao seu arquivo de estilo (style.css) */
+/* Adicione o seguinte código CSS ao seu arquivo de estilo (style.css) */
 .more-updates {
   text-align: center;
   padding: 20px 15px;
@@ -1173,20 +1173,20 @@ fieldset b{
 .more-updates2 {
   text-align: left;
   margin-bottom: 40px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
-  padding: 10px; /* Adiciona algum espa�amento interno para melhor legibilidade */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
+  padding: 10px; /* Adiciona algum espaçamento interno para melhor legibilidade */
 }
 
 .btn-more-updates {
   padding: 10px 20px;
   font-size: 20px;
-  background-color: #ff3131; /* Cor de fundo do bot�o */
-  color: #fff; /* Cor do texto do bot�o */
+  background-color: #ff3131; /* Cor de fundo do botão */
+  color: #fff; /* Cor do texto do botão */
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s, transform 0.2s; /* Adicionando transforma��o � transi��o */
+  transition: background-color 0.3s, transform 0.2s; /* Adicionando transformação à transição */
 }
 
 .btn-more-updates:hover {
@@ -1194,7 +1194,7 @@ fieldset b{
 }
 
 .btn-more-updates:active {
-  transform: scale(0.95); /* Diminuir o tamanho do bot�o ao ser clicado */
+  transform: scale(0.95); /* Diminuir o tamanho do botão ao ser clicado */
 }
 
 .dark summary.th2 {
@@ -1284,7 +1284,7 @@ fieldset b{
   display: block;
   margin-left: 115px;
   margin-bottom: 15px;
-  max-width: 1090px; /* Define uma largura m�xima para o par�grafo */
+  max-width: 1090px; /* Define uma largura máxima para o parágrafo */
 }
 
 .imagem-destaque2{
@@ -1292,8 +1292,8 @@ fieldset b{
   height: auto;
   display: block;
   margin-bottom: 20px; 
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1000px; /* Define uma largura m�xima para o par�grafo */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1000px; /* Define uma largura máxima para o parágrafo */
 } 
 
 .imagem-destaque3{
@@ -1301,8 +1301,8 @@ fieldset b{
   height: auto;
   display: block;
   margin-bottom: 20px;
-  margin: 0 auto; /* Centraliza o par�grafo na p�gina */
-  max-width: 1150px; /* Define uma largura m�xima para o par�grafo */
+  margin: 0 auto; /* Centraliza o parágrafo na página */
+  max-width: 1150px; /* Define uma largura máxima para o parágrafo */
 }
 
 p.ntc {
@@ -1367,7 +1367,7 @@ form button{
   height: auto;
   display: block;
   margin-bottom: 15px;
-  max-width: 500px; /* Define uma largura m�xima para o par�grafo */
+  max-width: 500px; /* Define uma largura máxima para o parágrafo */
 }
 
 .dark .header img{
