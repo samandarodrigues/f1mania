@@ -8,7 +8,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; /* refere-se à maneira como as dimensões totais de um elemento (largura e altura) são calculadas, incluindo as propriedades de preenchimento e borda */
 }
 
     /* Estilize o carro com uma classe e defina a animação */
